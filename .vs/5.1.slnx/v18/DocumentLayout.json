@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\ostap\\Downloads\\5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F47AF3FA-33A7-89B7-0F86-949DE3506C7B}|..\\UnitTest3\\UnitTest3.vcxproj|C:\\Users\\ostap\\Downloads\\UnitTest3\\UnitTest3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4ECD718E-B6A9-4752-8650-D9CDB670216C}|5.1.vcxproj|C:\\Users\\ostap\\Downloads\\5.1\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4ECD718E-B6A9-4752-8650-D9CDB670216C}|5.1.vcxproj|solutionrelative:5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,15 +22,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest3.cpp",
+              "DocumentMoniker": "C:\\Users\\ostap\\Downloads\\UnitTest3\\UnitTest3.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest3\\UnitTest3.cpp",
+              "ToolTip": "C:\\Users\\ostap\\Downloads\\UnitTest3\\UnitTest3.cpp",
+              "RelativeToolTip": "..\\UnitTest3\\UnitTest3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-14T21:55:09.692Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "5.1.cpp",
               "DocumentMoniker": "C:\\Users\\ostap\\Downloads\\5.1\\5.1.cpp",
               "RelativeDocumentMoniker": "5.1.cpp",
               "ToolTip": "C:\\Users\\ostap\\Downloads\\5.1\\5.1.cpp",
               "RelativeToolTip": "5.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-14T19:01:02.887Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
